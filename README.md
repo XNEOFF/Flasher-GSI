@@ -1,4 +1,4 @@
-# Flasher-GSI
+# Flasher GSI
 Welcome to Flasher GSI!, your go-to destination for hassle-free GSI flashing! Say goodbye to complex coding and hello to simplicity. With our user-friendly interface, flashing Generic System Images (GSIs) has never been easier.
 
 No more tedious typing or navigating through intricate commands – all you need is to enter fastboot mode, and we'll take care of the rest. Our intuitive process ensures that you can enjoy the benefits of GSIs without the technical headaches.
